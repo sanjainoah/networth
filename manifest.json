@@ -1,0 +1,18 @@
+{
+  "name": "Portfolio & Net Worth",
+  "short_name": "Net Worth",
+  "description": "Track investments, cash and loans, see your net worth and Indian capital-gains tax estimates.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF3F1",
+  "theme_color": "#12302D",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
